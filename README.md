@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohannad Abdul Wahed a computer science student from Yemen.</h1>
+<h1 align="center">I'm Mohannad Abdul Wahed a computer science student from Yemen.</h1>
 <h3 align="center">I’m interested in Frontend Developing, Game Developing and Android Developing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo2annad&label=Profile%20views&color=0e75b6&style=flat" alt="mo2annad" /> </p>

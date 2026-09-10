@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend Developmen**
 
-- 📫 How to reach me **medoodaini@gmail.com**
+- 📫 How to reach me **mohanadodaini@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zUlFDWBQnsWZiPsRgzP-uG2Mv45184bX/view?usp=sharing](https://drive.google.com/file/d/1zUlFDWBQnsWZiPsRgzP-uG2Mv45184bX/view?usp=sharing)
 

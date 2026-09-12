@@ -22,10 +22,10 @@
 ### About Me
 
 - 🌱 Currently learning **Artificial Intelligence**, **Machine Learning**, and **Android Development**
-- 👨‍💻 All of my projects are available on my [portfolio](https://mo2annad.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://mo2annad.github.io/Portfolio/)
 - 💬 Feel free to ask me about **Frontend Development**
 - 📫 Reach me at **mohanadodaini@gmail.com**
-- 📄 Learn more about my experience in my [resume](https://drive.google.com/file/d/1zUlFDWBQnsWZiPsRgzP-uG2Mv45184bX/view?usp=sharing)
+- 📄 Learn more about my experience in my [resume](https://drive.google.com/file/d/1nWlx9xeoDJaIlj_hoJ4ZKlO7NYg9eRIz/view?usp=sharing)
 - ⚡ Fun fact: **I love video games**
 
 ---
@@ -38,7 +38,7 @@
 <a href="https://kaggle.com/mohannadabdulwahed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://fb.com/mo2annad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/mo2annad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mo2annad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Alodaini" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://discord.gg/mo2annad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 

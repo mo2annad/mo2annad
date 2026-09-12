@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohannad Abdul Wahed</h1>
+<h1 align="center">Hi 👋, I'm Mohannad Abdulwahid Odaini</h1>
 
 <h3 align="center">
-Computer Science Student • Frontend Developer • Android Developer • Game Developer
+Computer Science Graduate • Frontend Developer • Full-Stack Developer • Android & Game Developer
 </h3>
 
 <p align="center">
@@ -9,19 +9,19 @@ Computer Science Student • Frontend Developer • Android Developer • Game D
     <img src="https://komarev.com/ghpvc/?username=mo2annad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/mo2annad?tab=followers">
-    <img src="https://img.shields.io/github/followers/mo2annad?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/mo2annad?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/mo2annad">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://www.linkedin.com/in/mohanadalodaini/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mo2annad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/mo2annad">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
@@ -29,92 +29,158 @@ Computer Science Student • Frontend Developer • Android Developer • Game D
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student from Yemen** passionate about building software, exploring new technologies, and turning ideas into real-world applications.
+I'm a **Computer Science graduate** with hands-on experience in **Front-End Web Development, IT Support, and Networking**.
 
-* 🎓 Computer Science Student
-* 💻 Focused on **Frontend & Web Development**
+I enjoy building responsive web applications, exploring new technologies, and turning ideas into practical software solutions.
+
+* 🎓 **Bachelor of Computer Science** — IQRA University
+* 💻 Focused on **Frontend & Full-Stack Web Development**
+* ⚛️ Working with **JavaScript, React, Node.js, HTML & CSS**
 * 📱 Exploring **Android & Mobile Development**
-* 🎮 Interested in **Game Development with Unity**
-* 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-* 🌱 Continuously improving my programming and software engineering skills
-* ⚡ I love **video games, technology, and building things with code**
-
-### What I'm Currently Learning
-
-```text
-Artificial Intelligence
-Machine Learning
-Android Development
-Modern Web Development
-Software Engineering
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-</p>
-
-### 📱 Mobile Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-</p>
-
-### 🎮 Game Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
-</p>
+* 🎮 Game development with **Unity & C#**
+* 🤖 Currently exploring **Artificial Intelligence & Machine Learning**
+* 🗄️ Experience with **SQL, MySQL, PostgreSQL & Prisma**
+* 🔥 Experience with **Firebase Authentication**
+* 🎨 UI/UX and prototyping with **Figma**
+* 🌐 Interested in building scalable and user-friendly applications
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mo2annad?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
-  </a>
+### 🛒 YEMENIS — Full-Stack E-Commerce Platform
+
+A full-stack e-commerce platform focused on traditional Yemeni products.
+
+**Tech Stack:**
+
+`Node.js` `Express.js` `PostgreSQL` `Prisma` `Firebase` `AI`
+
+**Highlights:**
+
+* 🛍️ Full-stack e-commerce platform
+* 🔌 RESTful APIs using Node.js & Express.js
+* 🔐 Firebase Authentication
+* 🗄️ PostgreSQL database with Prisma ORM
+* 🤖 Integrated AI chatbot
+* 🇾🇪 Focused on traditional Yemeni products
+
+---
+
+### 🎮 Tap Jump — 2D Unity Game
+
+An interactive 2D game developed using the Unity game engine.
+
+**Tech Stack:**
+
+`Unity` `C#` `Figma`
+
+**Features:**
+
+* 🏃 Player movement
+* 🦘 Jumping mechanics
+* 🌍 Gravity system
+* 🚧 Dynamic obstacle generation
+* 💥 Collision detection
+* 🎮 Gameplay logic and interactive features
+* 🎨 UI and prototypes designed with Figma
+
+---
+
+### 💻 Programming Learning Platform
+
+A responsive educational platform designed to help users learn programming.
+
+**Focus:**
+
+`HTML` `CSS` `JavaScript` `React`
+
+* 📚 Educational content
+* 📱 Responsive interface
+* 🎨 Modern UI
+* 💻 Frontend-focused architecture
+
+---
+
+## 💼 Experience
+
+### 🌐 Web Development Intern — YoungDevIntern
+
+**Oct 2025 – Nov 2025**
+
+* Developed and styled web interfaces using HTML, CSS, and JavaScript.
+* Applied UI design and frontend development concepts.
+* Gained exposure to Node.js and Full-Stack Web Development concepts.
+
+### 🌐 Web Development Intern — Internee.pk
+
+**Jul 2025 – Aug 2025**
+
+* Redesigned and improved website interfaces.
+* Developed responsive and interactive web pages.
+* Applied frontend development and UI design principles.
+* Gained practical experience with modern web development workflows.
+
+### 🖥️ IT Support Intern — J&S Technologies
+
+**Jun 2024 – Sep 2024**
+
+* Assisted with IT and system support tasks.
+* Supported basic networking and troubleshooting.
+* Handled day-to-day technical activities.
+* Worked collaboratively in a professional environment.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,sql" />
 </p>
 
-I'm continuously building projects to improve my skills and experiment with new technologies.
+### Frontend & Backend
 
-Some of the areas I work on include:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
 
-* 🌐 Web Applications
-* 📱 Android Applications
-* 🎮 Unity Games
-* 🤖 AI & Machine Learning Projects
-* 💡 Programming & University Projects
+### Mobile & Game Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,flutter,unity,cs" />
+</p>
+
+### Databases & Backend Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,prisma" />
+</p>
+
+### Tools & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Artificial Intelligence • Machine Learning • Android Development**
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**
+
+**IQRA University — Islamabad, Pakistan**
+
+`2021 – 2025`
 
 ---
 
@@ -134,47 +200,52 @@ Some of the areas I work on include:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohanadalodaini/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35" />
+  <a href="https://www.linkedin.com/in/mohanadalodaini/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/mo2annad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="35" height="35" />
+  <a href="https://github.com/mo2annad">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  &nbsp;
-  <a href="https://kaggle.com/mohannadabdulwahed" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="35" height="35" />
+  <a href="https://twitter.com/mo2annad">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/mo2annad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Alodaini" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="35" height="35" />
+  <a href="https://kaggle.com/mohannadabdulwahed">
+    <img src="https://skillicons.dev/icons?i=kaggle" width="40" />
   </a>
 </p>
 
-📧 **Email:** [mohanodaini@gmail.com](mailto:mohanodaini@gmail.com)
+### 🔗 Portfolio
 
-🌐 **Portfolio:** [mo2annad.github.io/Portfolio](https://mo2annad.github.io/Portfolio/)
+🌐 **[Visit My Portfolio](https://mo2annad.github.io/Portfolio/)**
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1nWlx9xeoDJaIlj_hoJ4ZKlO7NYg9eRIz/view)
+### 📄 Resume
+
+📑 **[View My Resume](https://drive.google.com/file/d/1nWlx9xeoDJaIlj_hoJ4ZKlO7NYg9eRIz/view)**
 
 ---
 
-## 💡 My Goals
+## 🌍 Languages
 
-> **Learn. Build. Improve. Repeat.**
+* 🇾🇪 Arabic — Native
+* 🇬🇧 English
+* 🇵🇰 Urdu
 
-I'm working toward becoming a well-rounded software developer by combining my knowledge of **web development, mobile development, game development, and artificial intelligence**.
+---
+
+## 🎯 Career Focus
+
+I'm looking to grow as a **software developer** while building real-world applications and continuously expanding my knowledge across:
+
+**Web Development → Full-Stack Development → Mobile Development → AI/ML**
+
+I enjoy learning new technologies, solving problems, collaborating with others, and transforming ideas into working products.
 
 ---
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <b>💡 Learn • Build • Improve • Repeat</b>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>

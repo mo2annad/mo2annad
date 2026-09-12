@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohannad Abdulwahid Odaini</h1>
+<h1 align="center">Hi 👋, I'm Mohanad Odaini</h1>
 
 <h3 align="center">
 Computer Science Graduate • Frontend Developer • Full-Stack Developer • Android & Game Developer

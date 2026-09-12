@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a>
     <img alt="GitHub Trophy" />
   </a>
 </p>
